@@ -23,5 +23,6 @@ This project is part of my #100DaysOfCode learning streak. I intend to write a s
 * This is the first program that put my knowledge on APi to the test. I've had a good sense of how to use API's practically.
 * I also learnt about the pprint (PrettyPrinter) library today. In this program, it helped format the json file into readable text, though still in json. 
 * I am getting used to the *requests* library and it's scope after using it twice now. 
+* Edit: The APi Key used in this program is public and visible, after pushing the final local repository, I got an email from GitGaurdian alerting me of sensitive data pushed to my public GitHub. I'll keep this alive, but I'll find ways to keep sensitive data out of the public domain for future projects. 
 
 For more understanding, watch the full tutorial **[here](https://youtu.be/SqvVm3QiQVk?t=1494)** from freeCodeCamp.org
